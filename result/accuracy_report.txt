@@ -1,0 +1,37 @@
+============================================================
+       OCCLUSION-AWARE FACE RECOGNITION TEST REPORT
+============================================================
+
+Total Images : 20
+Correct      : 19
+Wrong        : 1
+Accuracy     : 95.00%
+
+CLASS-WISE PERFORMANCE
+------------------------------------------------------------
+person1 : 9/10 = 90.00%
+person2 : 10/10 = 100.00%
+
+------------------------------------------------------------
+IMAGE-WISE RESULTS
+------------------------------------------------------------
+  1 | ms1.jpg                   | Actual: person 1        | Predicted: person1         | 71.71% | CORRECT
+  2 | ms10.jpg                  | Actual: person 1        | Predicted: person1         | 44.57% | CORRECT
+  3 | ms2.jpg                   | Actual: person 1        | Predicted: person1         | 75.30% | CORRECT
+  4 | ms3.jpg                   | Actual: person 1        | Predicted: person1         | 64.31% | CORRECT
+  5 | ms4.jpg                   | Actual: person 1        | Predicted: person1         | 65.44% | CORRECT
+  6 | ms5.jpg                   | Actual: person 1        | Predicted: person1         | 57.26% | CORRECT
+  7 | ms6.jpg                   | Actual: person 1        | Predicted: person1         | 32.57% | CORRECT
+  8 | ms7.jpg                   | Actual: person 1        | Predicted: person1         | 79.30% | CORRECT
+  9 | ms8.jpg                   | Actual: person 1        | Predicted: person1         | 46.11% | CORRECT
+ 10 | ms9.jpg                   | Actual: person 1        | Predicted: person2         | 5.90% | WRONG
+ 11 | WhatsApp Image 2026-09-08 at 8.26.44 PM (1).jpeg | Actual: person 2        | Predicted: person2         | 59.93% | CORRECT
+ 12 | WhatsApp Image 2026-09-08 at 8.26.44 PM (2).jpeg | Actual: person 2        | Predicted: person2         | 63.26% | CORRECT
+ 13 | WhatsApp Image 2026-09-08 at 8.26.44 PM.jpeg | Actual: person 2        | Predicted: person2         | 64.30% | CORRECT
+ 14 | WhatsApp Image 2026-09-08 at 8.26.45 PM (1).jpeg | Actual: person 2        | Predicted: person2         | 65.98% | CORRECT
+ 15 | WhatsApp Image 2026-09-08 at 8.26.45 PM (2).jpeg | Actual: person 2        | Predicted: person2         | 88.22% | CORRECT
+ 16 | WhatsApp Image 2026-09-08 at 8.26.45 PM (3).jpeg | Actual: person 2        | Predicted: person2         | 63.84% | CORRECT
+ 17 | WhatsApp Image 2026-09-08 at 8.26.45 PM.jpeg | Actual: person 2        | Predicted: person2         | 66.68% | CORRECT
+ 18 | WhatsApp Image 2026-09-08 at 8.26.46 PM (1).jpeg | Actual: person 2        | Predicted: person2         | 70.07% | CORRECT
+ 19 | WhatsApp Image 2026-09-08 at 8.26.46 PM (2).jpeg | Actual: person 2        | Predicted: person2         | 63.90% | CORRECT
+ 20 | WhatsApp Image 2026-09-08 at 8.26.46 PM.jpeg | Actual: person 2        | Predicted: person2         | 68.61% | CORRECT

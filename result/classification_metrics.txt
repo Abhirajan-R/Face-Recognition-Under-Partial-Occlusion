@@ -1,0 +1,36 @@
+OCCLUSION-AWARE FACE RECOGNITION
+============================================
+
+TEST DATASET
+------------
+Total Test Images : 220
+Correct           : 195
+Wrong             : 25
+Accuracy          : 88.64%
+
+BINARY CLASSIFICATION
+---------------------
+Positive Class    : person2
+True Positive     : 105
+True Negative     : 95
+False Positive    : 15
+False Negative    : 5
+
+Sensitivity       : 95.45%
+Specificity       : 86.36%
+Selectivity       : 86.36%
+Precision         : 87.50%
+F1 Score          : 91.30%
+AUC               : 0.9875
+
+ROC SCORE
+---------
+ROC score source   : Actual RBF-SVM decision score
+Positive class     : person2
+Confidence used    : NO
+Artificial +/- confidence : NO
+
+CLASS-WISE ACCURACY
+-------------------
+person1 : 90 / 110 = 81.82%
+person2 : 105 / 110 = 95.45%

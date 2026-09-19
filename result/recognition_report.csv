@@ -1,0 +1,21 @@
+Image,Actual,Predicted,ConfidencePercent,Correct,Status
+ms1.jpg,person 1,person1,71.7118045423782,1,CORRECT
+ms10.jpg,person 1,person1,44.565926636074,1,CORRECT
+ms2.jpg,person 1,person1,75.2983475805762,1,CORRECT
+ms3.jpg,person 1,person1,64.3144235223031,1,CORRECT
+ms4.jpg,person 1,person1,65.4414201478777,1,CORRECT
+ms5.jpg,person 1,person1,57.2649682397193,1,CORRECT
+ms6.jpg,person 1,person1,32.5737070859281,1,CORRECT
+ms7.jpg,person 1,person1,79.2994266632161,1,CORRECT
+ms8.jpg,person 1,person1,46.1082586106943,1,CORRECT
+ms9.jpg,person 1,person2,5.90121320922324,0,WRONG
+WhatsApp Image 2026-09-08 at 8.26.44 PM (1).jpeg,person 2,person2,59.9321602533738,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.44 PM (2).jpeg,person 2,person2,63.2629408542698,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.44 PM.jpeg,person 2,person2,64.2965619669373,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.45 PM (1).jpeg,person 2,person2,65.9756883781958,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.45 PM (2).jpeg,person 2,person2,88.2231716892867,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.45 PM (3).jpeg,person 2,person2,63.8381077734961,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.45 PM.jpeg,person 2,person2,66.6839504929388,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.46 PM (1).jpeg,person 2,person2,70.0734006003907,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.46 PM (2).jpeg,person 2,person2,63.8966534817048,1,CORRECT
+WhatsApp Image 2026-09-08 at 8.26.46 PM.jpeg,person 2,person2,68.6059975599089,1,CORRECT
